@@ -45,7 +45,7 @@ npm run preview
 ## 目录结构（约定）
 
 ```text
-src/
+  src/
   pages/          页面
   components/     组件
   routes/         路由配置
