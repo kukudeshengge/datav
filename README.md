@@ -1,16 +1,16 @@
-# React + Vite
+# 数据驾驶舱
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 首页
+<img width="2876" height="1504" alt="首页" src="https://github.com/user-attachments/assets/1af13f8b-32d5-4fc3-b357-ada6ec7908ef" />
 
-Currently, two official plugins are available:
+## 排行榜
+<img width="2878" height="1504" alt="排行榜" src="https://github.com/user-attachments/assets/ba272ebb-3bbf-4ffe-b275-7c9e92c4c511" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 分公司详情
+<img width="2880" height="2796" alt="分公司详情" src="https://github.com/user-attachments/assets/329ae54b-6b8f-4bc9-aa23-e425e08bf75c" />
 
-## React Compiler
+## 门店对比
+<img width="2880" height="4541" alt="门店对比" src="https://github.com/user-attachments/assets/5b5eb11f-eba2-4ae4-b1e8-6e81c1e5a6d9" />
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 数据概览
+<img width="2880" height="3428" alt="数据概览" src="https://github.com/user-attachments/assets/f99a0ba9-5c90-496c-9789-cf22135891e5" />
